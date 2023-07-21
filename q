@@ -1,0 +1,36 @@
+[33mcommit eb976e4c8797c43ebd38f10d2b669cd82e9361cd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 77f7442 fff1e5b
+Author: unknown <Yash Shah@bittitan.com>
+Date:   Thu Jul 20 12:30:37 2023 +0530
+
+    resolved conflicts v7
+
+[33mcommit 77f74426e9fbcfdf4630430ec3479a5aefd2160d[m
+Author: unknown <Yash Shah@bittitan.com>
+Date:   Thu Jul 20 12:20:30 2023 +0530
+
+    modified 2.txt v6
+
+[33mcommit fff1e5b304bfa6b2e5c2473badd2c021f1dd5f83[m[33m ([m[1;32mf2[m[33m)[m
+Author: unknown <Yash Shah@bittitan.com>
+Date:   Thu Jul 20 12:17:56 2023 +0530
+
+    modified 2.txt v5
+
+[33mcommit 5ad55c8c58b507802bf7537b9d1dcd9ddaf64335[m
+Author: unknown <Yash Shah@bittitan.com>
+Date:   Wed Jul 19 12:14:39 2023 +0530
+
+    2.txt added
+
+[33mcommit b5d75e0140f1c28475afe95ef063d7a0524d4294[m
+Author: unknown <Yash Shah@bittitan.com>
+Date:   Wed Jul 19 11:50:03 2023 +0530
+
+    1.txt was changed
+
+[33mcommit 90407211d09a53f8886579d041a1530f5da4fb5f[m
+Author: unknown <Yash Shah@bittitan.com>
+Date:   Wed Jul 19 11:37:41 2023 +0530
+
+    1.txt was added
